@@ -1,0 +1,4 @@
+echo "" > .wasmerignore
+git add .wasmerignore
+git commit -m "Add .wasmerignore to fix static deploy"
+git push
