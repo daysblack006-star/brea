@@ -1,1 +1,4 @@
-hello world
+<script>window.onload=()=>{
+    window.location = "index.html"
+   } 
+    </script>
