@@ -1,0 +1,9 @@
+{
+  "build": {
+    "command": "",
+    "output": "."
+  },
+  "deploy": {
+    "type": "static"
+  }
+}
